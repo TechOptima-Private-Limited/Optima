@@ -1,2 +1,2 @@
 # Optima
-Pip Install Library
+python Library
