@@ -1,1 +1,6 @@
 
+# .gitignore
+venv/
+build/
+dist/
+OptiNet.egg-info/

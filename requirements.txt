@@ -1,0 +1,5 @@
+datasets==3.0.2
+scikit-learn==1.5.2
+setuptools==75.2.0
+transformers==4.46.0
+
